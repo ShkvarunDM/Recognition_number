@@ -46,16 +46,12 @@
 
 ## Этапы выполнения работы программы
 1. Преобразования в градации серого
-
-<p align  = "center">   
-   
-![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/6b90213e-3c6c-4d7b-8ef0-5caf06061751)
-
-</p>
+ 
+   ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/6b90213e-3c6c-4d7b-8ef0-5caf06061751)
 
 2. Обнаружение краев изображения
  
-![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/618d1391-64b0-47f4-bc18-ded4fc3236b4)
+   ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/618d1391-64b0-47f4-bc18-ded4fc3236b4)
 
 3. Закрытие контуров
    
@@ -71,9 +67,9 @@
 
 6.	Предобработка области номера до распознания
    
-   ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/ef60cc67-64c1-4b54-adc7-b6cbc46af269)
+      ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/ef60cc67-64c1-4b54-adc7-b6cbc46af269)
 
 7.	Распознание 12-тизначного кода с применением инструментов библиотеки Tesseract.
 
-   ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/a950e439-c465-4e3e-b8f8-6147a8a684e2)
+      ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/a950e439-c465-4e3e-b8f8-6147a8a684e2)
 
