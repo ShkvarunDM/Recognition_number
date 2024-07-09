@@ -47,8 +47,10 @@
 ## Этапы выполнения работы программы
 1. Преобразования в градации серого
 
-<p align="center">   
+<p align  = "center">   
+   
 ![image](https://github.com/ShkvarunDM/Recognition_number/assets/103378631/6b90213e-3c6c-4d7b-8ef0-5caf06061751)
+
 </p>
 
 2. Обнаружение краев изображения
